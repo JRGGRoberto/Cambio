@@ -2,6 +2,12 @@
 =======
 ### Application developed in Flutter
 
+This application convert values between Real BR, Euro and Dolar.
+
+Values provided by HgBrasil.com
+
+Disclaimer: https://console.hgbrasil.com/terms
+
 ### So study Dart, Flutter using JSON.
 
 ### Equipment Tests
@@ -20,4 +26,4 @@ Get your key there for free!
 
 ### Screenshot
 
-![screen shot]()
+![Alt Telas](https://github.com/JRGGRoberto/Cambio/blob/master/img.png)
