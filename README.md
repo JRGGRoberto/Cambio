@@ -10,10 +10,15 @@ Disclaimer: https://console.hgbrasil.com/terms
 ### So study Dart, Flutter using JSON.
 
 ### Equipment Tests
-* Samsung Galaxy S2 4.1.1 (a)
-* Asus Zenfone - 6.0.1
 
-(a) Emulated via VM [Genymotion] (https://www.genymotion.com)
+| Equipment                    | Supported          |
+| -----------------------------| ------------------ |
+| Samsung Galaxy S2 4.1.1 (*)  | :white_check_mark: |
+| Asus Zenfone - 6.0.1 (usb)   | :white_check_mark: |
+| Others                       | :question:         |
+| DynaTAC 8000x and similars   | :x:                |
+
+(*) Emulated via VM [Genymotion] (https://www.genymotion.com)
 
 ### Webservice: 
   https://hgbrasil.com/status/finance
