@@ -1,11 +1,10 @@
- Câmbio
+ Câmbio :dollar:
 =======
 ### Application developed in Flutter
 
 This application convert values between Real BR, Euro and Dolar.
 
-Values provided by HgBrasil.com
-
+Values provided by HgBrasil.com<br>
 Disclaimer: https://console.hgbrasil.com/terms
 
 ### So study Dart, Flutter using JSON.
@@ -29,6 +28,6 @@ Get your key there for free!
 ![Alt Telas](https://github.com/JRGGRoberto/Cambio/blob/master/img.png)
 
 
-### JRGG Roberto<br>
+### JRGG Roberto :sailboat:<br>
 https://pt.linkedin.com/in/jrobertogoes <br>
-jrggroberto@gmail.com
+:e-mail: jrggroberto@gmail.com
