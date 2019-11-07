@@ -11,12 +11,12 @@ Disclaimer: https://console.hgbrasil.com/terms
 
 ### Equipment Tests
 
-| Equipment                    | Supported          |
-| -----------------------------| ------------------ |
-| Samsung Galaxy S2 4.1.1 (*)  | :white_check_mark: |
-| Asus Zenfone - 6.0.1 (usb)   | :white_check_mark: |
-| Others                       | :question:         |
-| DynaTAC 8000x and similars   | :x:                |
+Equipment                    | Supported
+-----------------------------| :------------------:
+Samsung Galaxy S2 4.1.1 (*)  | :white_check_mark:
+Asus Zenfone - 6.0.1 (usb)   | :white_check_mark:
+Others                       | :question:
+DynaTAC 8000x and similars   | :x:
 
 (*) Emulated via VM [Genymotion] (https://www.genymotion.com)
 
